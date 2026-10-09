@@ -1,0 +1,3 @@
+RestaurantID,RestaurantName,CuisineType,Segment,Subregion,InStoreOrders,UberEatsOrders,DoorDashOrders,SelfDeliveryOrders
+900001,Kimchi Harbour,Korean,Cafe,East Auckland,100,300,200,50
+900002,Seoul Street Bar,Korean,QSR,East Auckland,80,260,150,40

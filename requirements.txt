@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+plotly>=5.20
+pillow>=10.0          # only needed to regenerate the background images
+python-docx>=1.1      # only needed to rebuild the Word reports
+matplotlib>=3.7       # only needed to rebuild the Word reports
